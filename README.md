@@ -1,0 +1,2 @@
+# SurvBoxReleases
+For updates
